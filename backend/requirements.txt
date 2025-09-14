@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+#ml
+networkx
+pandas
+numpy
+geopandas
+matplotlib
+osmnx
+scikit-learn
+python-multipart
+requests

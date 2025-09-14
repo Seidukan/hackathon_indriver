@@ -1,0 +1,4 @@
+venv/
+cache/
+__pycache__/
+backend/geo_locations_astana_hackathon/
