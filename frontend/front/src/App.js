@@ -32,7 +32,7 @@ export default function App() {
     setApiResponse(null);
 
     try {
-      const response = await fetch("https://1dd77389effe.ngrok-free.app/route", {
+      const response = await fetch("WRITE APPEARED URI AFTER EXECUTING RUN BACKEND.sh/route", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
